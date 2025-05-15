@@ -77,6 +77,7 @@ function Revenue_Analysis_Page() {
                 }} />
 
                 <div style={{ width: '80%' }}>
+                    <h2>Revenue Analysis:</h2>
                     <div style={{
                         width: '100%',
                         display: 'flex',
