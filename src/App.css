@@ -1,0 +1,22 @@
+.header {
+  width: 100%;
+  background-color: oklch(0.439 0 0); /* dark red shade */
+  color: white;
+  height: 15vh;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+
+/* For smaller screens like mobile */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    height: auto;
+    text-align: center;
+    padding: 15px 10px;
+  }
+}
