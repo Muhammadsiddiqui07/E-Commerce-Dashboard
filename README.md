@@ -28,10 +28,10 @@ A front-end project for managing an e-commerce platform's sales, inventory, and 
 ![Revenue Page](./screenshots/revenue2.png)
 
 ## Inventory
-![Inventory Page](./screenshots/inventory.png)
+![Inventory Page](./screenshots/inventry.png)
 
 ## Product Form
-![Product Form](./screenshots/product-form.png)
+![Product Form](./screenshots/product.png)
 
 ## Run Locally
 
