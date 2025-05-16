@@ -19,7 +19,7 @@ A front-end project for managing an e-commerce platform's sales, inventory, and 
 
 ## Live Demo
 
-[🔗 Click Here to View Hosted App](https://your-vercel-or-netlify-link.com)
+[🔗 Click Here to View Hosted App](https://muhammadsiddiqui07.github.io/E-Commerce-Dashboard/)
 
 ## Screenshots
 
