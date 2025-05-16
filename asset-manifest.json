@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Muhammadsiddiqui07.github.io/E-Commerce-Dashboard/static/css/main.86df98eb.css",
-    "main.js": "/Muhammadsiddiqui07.github.io/E-Commerce-Dashboard/static/js/main.ee26196b.js",
-    "static/js/453.96617d95.chunk.js": "/Muhammadsiddiqui07.github.io/E-Commerce-Dashboard/static/js/453.96617d95.chunk.js",
-    "index.html": "/Muhammadsiddiqui07.github.io/E-Commerce-Dashboard/index.html",
-    "main.86df98eb.css.map": "/Muhammadsiddiqui07.github.io/E-Commerce-Dashboard/static/css/main.86df98eb.css.map",
-    "main.ee26196b.js.map": "/Muhammadsiddiqui07.github.io/E-Commerce-Dashboard/static/js/main.ee26196b.js.map",
-    "453.96617d95.chunk.js.map": "/Muhammadsiddiqui07.github.io/E-Commerce-Dashboard/static/js/453.96617d95.chunk.js.map"
+    "main.css": "/E-Commerce-Dashboard/static/css/main.86df98eb.css",
+    "main.js": "/E-Commerce-Dashboard/static/js/main.26d5b3aa.js",
+    "static/js/453.96617d95.chunk.js": "/E-Commerce-Dashboard/static/js/453.96617d95.chunk.js",
+    "index.html": "/E-Commerce-Dashboard/index.html",
+    "main.86df98eb.css.map": "/E-Commerce-Dashboard/static/css/main.86df98eb.css.map",
+    "main.26d5b3aa.js.map": "/E-Commerce-Dashboard/static/js/main.26d5b3aa.js.map",
+    "453.96617d95.chunk.js.map": "/E-Commerce-Dashboard/static/js/453.96617d95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86df98eb.css",
-    "static/js/main.ee26196b.js"
+    "static/js/main.26d5b3aa.js"
   ]
 }
